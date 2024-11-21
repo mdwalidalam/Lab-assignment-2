@@ -1,0 +1,3 @@
+Name: Arnika
+Roll:132
+Dep:CSE
