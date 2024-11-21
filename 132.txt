@@ -1,3 +1,4 @@
 Name: Arnika
 Roll:132
 Dep:CSE
+CGPA: 3.00
